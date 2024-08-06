@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Computer Vision Algorithm, Machine Learning, Data Science
-
+I'm Currently working on Computer Vision Algorithm
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/utkarsh-niraj-sinha-223883319) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ausinrobo) 
